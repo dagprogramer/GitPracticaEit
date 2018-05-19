@@ -1,2 +1,6 @@
 esta es la primera linea del texto2
 esta es la tercera linea de texto
+esta es la tercera linea de texto
+esta es la ultima linea agregada en el texto
+esta es la cuarta line de texto del archivo2
+
